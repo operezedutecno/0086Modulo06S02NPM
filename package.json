@@ -13,6 +13,7 @@
   "author": "Osman Pérez",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.30.1",
     "rut.js": "^2.1.0"
   },
   "devDependencies": {
